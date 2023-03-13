@@ -8,7 +8,7 @@ Also, entries on main diagnonal of $AB$ are positive (because they are product o
 $\Rightarrow AB \in G$
 $\Rightarrow "*"$ is a binary operation in $G$
 
-$"*"$ is associative (matrix multiplication)
+$'*'$ is associative (matrix multiplication)
 
 Natural element is $I$ (identity), $I \in G$
 
